@@ -12,4 +12,4 @@ Example: entering the project name Champion, will result in the file "tmplt_scri
 
 The example .zip has a file structure great for Video Creation projects, however this can be modified to a file structure of any project type which you find yourself manually creating or copying often.
 
-The script will stop and alert you if you already have a folder in the directory with the project name entered.
+The script will stop and alert you if you already have a folder in the directory with the same name as the project name entered.
