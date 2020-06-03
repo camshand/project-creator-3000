@@ -1,4 +1,4 @@
-# project-copy-paster-3000
+# project-creator-3000
 
 A powershell script which copies a directory and renames folders &amp; files based on a keyword.
 
